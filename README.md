@@ -15,3 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![](link)
+A palavra **limão** deve ser destacada.
+> Escrito por Alura Start
